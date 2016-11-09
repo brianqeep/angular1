@@ -1,0 +1,18 @@
+body{
+  background-image: url("images/bg.png");
+  background-repeat: repeat-x;
+  text-align: center;
+}
+.banner{
+  height:300px;
+  width: 600px;
+}
+.image2{
+  height:200px;
+  width: 400px;
+}
+
+.image3{
+  height:200px;
+  width: 400px;
+}
